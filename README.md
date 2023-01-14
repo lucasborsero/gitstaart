@@ -9,7 +9,8 @@ Hello there, my name is Lucas Borsero!
 - Watch movies and TV series;
 - Play video games;
 - Work out;
-- Travel.
+- Travel;
+- Reading.
 
 ## Current studying
 
